@@ -1,33 +1,163 @@
-[Audio examples](https://mchijmma.github.io/modeling-nonlinear/) for the [paper](https://arxiv.org/pdf/1810.06603v2):
+[Audio examples](https://djmoffat.github.io/MachineLearningDrumGainMixing/) 
 
-[Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
 &nbsp;
-## distortion
-&nbsp;
-### 1st-setting
+### Track One
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/1st-setting/1-distortion_INPUT.mp3" type="audio/mp3" />
+<source src="media/1_039_phrase_disco_complex_slow_sticks_norm.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/1st-setting/2-distortion_TARGET.mp3" type="audio/mp3" />
+<source src="media/1_039_phrase_disco_complex_slow_sticks_bss.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/1st-setting/3-distortion_OUTPUT.mp3" type="audio/mp3" />
+<source src="media/1_039_phrase_disco_complex_slow_sticks_RF.wav" type="audio/wav" />
 </audio>
 </div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
+<audio controls="controls">
+<source src="media/1_039_phrase_disco_complex_slow_sticks_sum.wav" type="audio/wav" />
+</audio>
 </div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
+<audio controls="controls">
+<source src="media/1_039_phrase_disco_complex_slow_sticks_Dry2.wav" type="audio/wav" />
+</audio>
+</div>
+
+
+&nbsp;
+### Track Two
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
+<audio controls="controls">
+<source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_norm.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
+<audio controls="controls">
+<source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_bss.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
+<audio controls="controls">
+<source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_RF.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
+<audio controls="controls">
+<source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_sum.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
+<audio controls="controls">
+<source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_Dry2.wav" type="audio/wav" />
+</audio>
+</div>
+
+
+
+&nbsp;
+### Track Three
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
+<audio controls="controls">
+<source src="media/2_048_phrase_rock_complex_medium_sticks_norm.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
+<audio controls="controls">
+<source src="media/2_048_phrase_rock_complex_medium_sticks_bss.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
+<audio controls="controls">
+<source src="media/2_048_phrase_rock_complex_medium_sticks_RF.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
+<audio controls="controls">
+<source src="media/2_048_phrase_rock_complex_medium_sticks_sum.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
+<audio controls="controls">
+<source src="media/2_048_phrase_rock_complex_medium_sticks_Dry2.wav" type="audio/wav" />
+</audio>
+</div>
+
+
+&nbsp;
+### Track Four
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
+<audio controls="controls">
+<source src="media/2_071_phrase_shuffle-blues_simple_fast_sticks_norm.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
+<audio controls="controls">
+<source src="media/2_071_phrase_shuffle-blues_simple_fast_sticks_bss.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
+<audio controls="controls">
+<source src="media/2_071_phrase_shuffle-blues_simple_fast_sticks_RF.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
+<audio controls="controls">
+<source src="media/2_071_phrase_shuffle-blues_simple_fast_sticks_sum.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
+<audio controls="controls">
+<source src="media/2_071_phrase_shuffle-blues_simple_fast_sticks_Dry2.wav" type="audio/wav" />
+</audio>
+</div>
+
+
 
 &nbsp;
 ### 2nd-setting
@@ -63,394 +193,86 @@
 </div>
 </div>
 
+
+
 &nbsp;
-### 3rd-setting
+### Track Five
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/3rd-setting/bass_1-distortion_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/3rd-setting/guitar_1-distortion_INPUT.mp3" type="audio/mp3" />
+<source src="media/3_060_phrase_disco_complex_fast_sticks_norm.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/3rd-setting/bass_2-distortion_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/3rd-setting/guitar_2-distortion_TARGET.mp3" type="audio/mp3" />
+<source src="media/3_060_phrase_disco_complex_fast_sticks_bss.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
 <audio controls="controls">
-<source src="audio/distortion/3rd-setting/bass_3-distortion_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/3rd-setting/guitar_3-distortion_OUTPUT.mp3" type="audio/mp3" />
+<source src="media/3_060_phrase_disco_complex_fast_sticks_RF.wav" type="audio/wav" />
 </audio>
 </div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
+<audio controls="controls">
+<source src="media/3_060_phrase_disco_complex_fast_sticks_sum.wav" type="audio/wav" />
+</audio>
+</div>
+
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
+<audio controls="controls">
+<source src="media/3_060_phrase_disco_complex_fast_sticks_Dry2.wav" type="audio/wav" />
+</audio>
 </div>
 
 &nbsp;
-## overdrive
-&nbsp;
-### 1st-setting
+### Track Six
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Loudness Normalised Mixed <br />
 <audio controls="controls">
-<source src="audio/overdrive/1st-setting/1-overdrive_INPUT.mp3" type="audio/mp3" />
+<source src="media/3_071_phrase_afro-samba_complex_medium_sticks_norm.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Source Separation Mixed <br />
 <audio controls="controls">
-<source src="audio/overdrive/1st-setting/2-overdrive_TARGET.mp3" type="audio/mp3" />
+<source src="media/3_071_phrase_afro-samba_complex_medium_sticks_bss.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Random Forest Mixed <br />
 <audio controls="controls">
-<source src="audio/overdrive/1st-setting/3-overdrive_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 2nd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/overdrive/2nd-setting/1-overdrive_INPUT.mp3" type="audio/mp3" />
+<source src="media/3_071_phrase_afro-samba_complex_medium_sticks_RF.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Direct Sum <br />
 <audio controls="controls">
-<source src="audio/overdrive/2nd-setting/2-overdrive_TARGET.mp3" type="audio/mp3" />
+<source src="media/3_071_phrase_afro-samba_complex_medium_sticks_sum.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+<div id="column1" style="float:left; margin:0; width:25%;">
+- Human Engineer Mixed <br />
 <audio controls="controls">
-<source src="audio/overdrive/2nd-setting/3-overdrive_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 3rd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/overdrive/3rd-setting/1-overdrive_INPUT.mp3" type="audio/mp3" />
+<source src="media/3_071_phrase_afro-samba_complex_medium_sticks_Dry2.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/overdrive/3rd-setting/2-overdrive_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
 
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/overdrive/3rd-setting/3-overdrive_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-## EQ
-&nbsp;
-### 1st-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/eq/1st-setting/bass_1-eq_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/1st-setting/guitar_1-eq_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/eq/1st-setting/bass_2-eq_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/1st-setting/guitar_2-eq_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/eq/1st-setting/bass_3-eq_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/1st-setting/guitar_3-eq_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 2nd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/bass_1-eq_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/guitar_1-eq_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/bass_2-eq_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/guitar_2-eq_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/bass_3-eq_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/eq/2nd-setting/guitar_3-eq_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-## FxChain
-&nbsp;
-### 1st-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 1st-setting-NSynth-dataset
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 2nd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 2nd-setting-NSynth-dataset
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 3rd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
-### 3rd-setting-NSynth-dataset
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-&nbsp;
+<!-- &nbsp;
 ### Citation
 >@inproceedings{martinez2019modeling,<br />
 >   title={Modeling of nonlinear audio effects with end-to-end deep neural networks},<br />
@@ -459,5 +281,6 @@
 >   month = {May},<br />
 >   year = {2019},<br />
 >   location = {Brighton, UK}<br />
->}<br />
+>}<br /> -->
 
+Many thanks to <a href="https://m-marco.com">{{ "Marco Martínez" }} for the site template
