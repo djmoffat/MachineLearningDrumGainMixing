@@ -160,42 +160,6 @@
 
 
 &nbsp;
-### 2nd-setting
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/bass_1-distortion_INPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/guitar_1-distortion_INPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/bass_2-distortion_TARGET.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/guitar_2-distortion_TARGET.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/bass_3-distortion_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-<source src="audio/distortion/2nd-setting/guitar_3-distortion_OUTPUT.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-
-
-&nbsp;
 ### Track Five
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:25%;">
