@@ -3,7 +3,7 @@
 
 &nbsp;
 ## Track One
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
@@ -43,7 +43,7 @@
 &nbsp;
 ## Track Two
 
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
@@ -83,7 +83,7 @@
 
 &nbsp;
 ## Track Three
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
@@ -122,7 +122,7 @@
 
 &nbsp;
 ## Track Four
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
@@ -162,7 +162,7 @@
 
 &nbsp;
 ## Track Five
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
@@ -203,7 +203,7 @@
 &nbsp;
 ## Track Six
 
-<div id="contentBox" style="margin:0px auto; width:1100px">
+<div id="contentBox" style="margin:0px auto; width:1300px">
 <div id="column1" style="float:left; margin:0; width:20%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
