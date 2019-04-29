@@ -251,4 +251,4 @@
 >   location = {Brighton, UK}<br />
 >}<br /> -->
 
-Many thanks to <a href="https://m-marco.com">{{ "Marco Martínez" }} for the site template
+Many thanks to <a href="https://m-marco.com">{{ "Marco Martínez" }} </a> for the site template
