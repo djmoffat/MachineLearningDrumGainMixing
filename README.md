@@ -4,35 +4,35 @@
 &nbsp;
 ### Track One
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:22%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
 <source src="media/1_039_phrase_disco_complex_slow_sticks_norm.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:22%;">
 - Source Separation Mixed <br />
 <audio controls="controls">
 <source src="media/1_039_phrase_disco_complex_slow_sticks_bss.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:22%;">
 - Random Forest Mixed <br />
 <audio controls="controls">
 <source src="media/1_039_phrase_disco_complex_slow_sticks_RF.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:22%;">
 - Direct Sum <br />
 <audio controls="controls">
 <source src="media/1_039_phrase_disco_complex_slow_sticks_sum.wav" type="audio/wav" />
 </audio>
 </div>
 
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:12%;">
 - Human Engineer Mixed <br />
 <audio controls="controls">
 <source src="media/1_039_phrase_disco_complex_slow_sticks_Dry2.wav" type="audio/wav" />
@@ -43,7 +43,7 @@
 &nbsp;
 ### Track Two
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:25%;">
+<div id="column1" style="float:left; margin:0; width:22%;">
 - Loudness Normalised Mixed <br />
 <audio controls="controls">
 <source src="media/1_070_phrase_shuffle-blues_complex_medium_brushes_norm.wav" type="audio/wav" />
